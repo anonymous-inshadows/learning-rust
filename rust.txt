@@ -5,3 +5,4 @@ push() = add character to string
 format! = adds all string together
 .len() = lenght of string
 .clone() = clones the owner of a string to another
+	a, b -> &a = barrow the a ownership
