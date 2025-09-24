@@ -3,3 +3,4 @@ match = if you have lot of if else statements and dont forget to use _ at the en
 push_str() = add text to string
 push() = add character to string
 format! = adds all string together
+.len() = lenght of string
