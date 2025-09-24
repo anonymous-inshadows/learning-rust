@@ -1,1 +1,1 @@
-mut = makes a variable changeable
+mut = makes a variable changeable if only it is not const
