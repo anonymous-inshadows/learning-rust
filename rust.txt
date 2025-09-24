@@ -1,2 +1,2 @@
 mut = makes a variable changeable if only it is not const
-match = if you have lot of if else statements
+match = if you have lot of if else statements and dont forget to use _ at the end
