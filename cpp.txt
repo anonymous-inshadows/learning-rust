@@ -1,3 +1,6 @@
 vector = array but changeable
 array doesnt change
 pow(num, 10) = num 10 times times it self
+.push_back(element) add an element
+.pop_back() removes an element
+.size() give the size of elements inside
