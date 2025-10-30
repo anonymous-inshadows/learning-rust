@@ -4,3 +4,4 @@ pow(num, 10) = num 10 times times it self
 .push_back(element) add an element
 .pop_back() removes an element
 .size() give the size of elements inside
+template <typename X> with this method when you use X for type (X number) X is the type that you pass to computer if you pass int is int if string is string and so on
